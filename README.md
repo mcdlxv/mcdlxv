@@ -16,9 +16,9 @@ Almaty, Kazakhstan · remote · [i01.kz](https://i01.kz) · [ilyas@baiduanov.kz]
 | [vg.kz](https://www.vg.kz) | Web · 2026 | Corporate website of Volkovgeology JSC: 328 pages in Russian, Kazakh and English on static Next.js, audited by 25 AI agents. |
 | [BalaSpace](https://balaspace.app) | iOS, Android, web · TestFlight | Platform for private kindergartens: directors, teachers and parents. Supabase with RLS, 12 Edge Functions, Jest and Maestro e2e tests. |
 
-Also **BusCore** — a safety-monitoring backend for a bus fleet: telemetry, 6 violation detectors, live SSE feed, Telegram alerts. FastAPI, PostgreSQL, Docker, 46 tests.
+Open source: **[BusCore](https://github.com/mcdlxv/buscore)** — a safety-monitoring backend for a bus fleet: telemetry, detectors for 6 violation types, a live SSE feed, Telegram alerts. FastAPI, PostgreSQL, Docker, 46 tests, with the full spec → plan → code → review history.
 
-Most product code lives in private repositories. Happy to walk through the architecture and the code on a call.
+Most product code lives in private repositories. The **[case studies](https://github.com/mcdlxv/case-studies)** cover the architecture, key decisions and debugging stories behind STDIO, Dosefy, BalaSpace and vg.kz — and I'm happy to walk through the code itself on a call.
 
 ## How I build with AI
 
